@@ -1,0 +1,12 @@
+.success {
+  color: green;
+}
+
+.error{
+  color:red;
+}
+
+.word {
+  font-size: 2em;
+  font-weight: bolder;
+}
